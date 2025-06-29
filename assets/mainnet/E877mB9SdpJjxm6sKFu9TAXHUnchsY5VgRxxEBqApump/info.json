@@ -1,0 +1,11 @@
+{
+  "name": "DiamondPepe",
+  "symbol": "DPEPE",
+  "description": "Diamond Pepe is the ultimate meme coin on Solana – rare, shiny, and unstoppable. $DPEPE is here to flex.",
+  "image": "https://raw.githubusercontent.com/Gifthub532/diamondpepe-token/main/assets/mainnet/E877mB9SdpJjxm6sKFu9TAXHUnchsY5VgRxxEBqApump/logo.png",
+  "tags": ["meme", "pepe", "diamondhands"],
+  "extensions": {
+    "website": "https://diamondpepe.xyz",
+    "twitter": "https://twitter.com/DiamondPepeSol"
+  }
+}
